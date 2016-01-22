@@ -1,5 +1,6 @@
 <?php  //crm-login-2.php
 include 'inc/sitefunctions.php';
+require_once 'vendor/autoload.php';
 ?>
 
 <!DOCTYPE html>
