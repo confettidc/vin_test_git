@@ -11,7 +11,7 @@ if ($x == 1) {
 $y = 1;
 $z;
 
-FUNCTION helloWorld() {
+function helloWorld() {
 	ECHO "Hello World!";
 }
 ?>
